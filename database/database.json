@@ -1,0 +1,106 @@
+{
+  "users": {
+    "6281395981439@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285640466269@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285863771339@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282244560212@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6289608986491@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285860117106@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287863366387@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281353537841@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282235560780@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281320628508@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6289524208209@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285389563357@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281290209406@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "6281395981439@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "nsfw": false
+    },
+    "120363041532639276@g.us": {
+      "mute": false,
+      "antilink": false,
+      "nsfw": false
+    },
+    "120363023821913774@g.us": {
+      "mute": false,
+      "antilink": false,
+      "nsfw": false
+    },
+    "120363041556648463@g.us": {
+      "mute": false,
+      "antilink": false,
+      "nsfw": false
+    },
+    "6289524208209@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "nsfw": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6281395981439@s.whatsapp.net": {
+      "autoreact": false
+    }
+  },
+  "others": {
+    "absen": []
+  },
+  "sticker": {},
+  "sewa": {}
+}
